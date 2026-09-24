@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="header.jpg" width="100%" alt="Auto Clipper Header">
+</p>
 # 💫 About Me:
 Im currently working on Geometry Dash mods and small side projects<br>I love Title Fight and Superheaven
 
